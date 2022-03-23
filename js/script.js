@@ -1,3 +1,23 @@
+// graph TD
+
+// 1[informazioni]
+// 1-->a
+// 1-->c
+// 1-->e
+// a{qual'è il tuo nome?}
+// a-->b[nome]
+// c{ quel'è il tuo cognome?}
+// c-->d[cognome]
+// e{qual'è il tuo colore preferito?}
+// e-->f[colore preferito]
+// f-->g{riassunto}
+// b-->g
+// d-->g
+// g-->h[nome + cognome + colore preferito]
+
+
+
+
 // // Chiedi all’utente il suo nome,
 // // poi chiedi il suo cognome,
 // // poi chiedi il suo colore preferito
