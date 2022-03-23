@@ -1,0 +1,27 @@
+.debug {
+    border: 1px solid black;
+}
+
+.col-12 h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 180px;
+}
+
+.row-2 {
+    justify-content: space-around;
+}
+
+.col-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.col-8 {
+    padding-top: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+}
