@@ -19,9 +19,16 @@
     height: 200px;
 }
 
-.col-8 {
-    padding-top: 50px;
+.col {
     margin: 0 auto;
     text-align: center;
     font-size: 30px;
+}
+
+#riassunto {
+    display: inline-block;
+    color: red;
+    background-color: lightgrey;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
 }

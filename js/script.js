@@ -23,5 +23,5 @@ document.getElementById('favoriteColor').innerHTML += favoriteColor;
 
 
 const riassunto = ('Ciao ')
-document.getElementById('riassunto').innerHTML = riassunto + userName + ' ' + lastName + ' ' +favoriteColor + ' ' + 21;
+document.getElementById('riassunto').innerHTML = riassunto + userName + lastName + favoriteColor + 21;
 
