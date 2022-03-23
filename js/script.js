@@ -42,6 +42,6 @@ console.log(favoriteColor)
 document.getElementById('favoriteColor').innerHTML += favoriteColor;
 
 
-const riassunto = ('Ciao ')
+const riassunto = ('')
 document.getElementById('riassunto').innerHTML = riassunto + userName + lastName + favoriteColor + 21;
 
